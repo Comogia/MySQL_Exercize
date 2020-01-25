@@ -1,8 +1,6 @@
 /*********************************************
  * Corso di Basi di dati 2018/19             *
  * Esercizio Bonus 1                         *
- * Giacomo Gualandi - matricola 657814       *
- * Email - giacomo.gualandi3@studio.unibo.it *
  **********************************************/
 
 
