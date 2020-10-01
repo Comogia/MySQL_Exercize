@@ -1,2 +1,2 @@
-# MySQL_Exercize
-Create table, stored procedures, trigger, view
+# MySQL_Exercise
+Examples on Creating tables, stored procedures, triggers and views in MySQL which can be useful to understand these topics in MySQL.
